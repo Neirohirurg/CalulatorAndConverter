@@ -4,3 +4,7 @@
 /.vs/slnx.sqlite
 /.vs/Jdanov/FileContentIndex
 /.vs/
+/Calculator-master/Visual Studio 2022/Visualizers
+*.gitattributes
+/Calculator-master/.vs/Jdanov
+/Calculator-master/Calculator1/.vs
