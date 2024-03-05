@@ -8,3 +8,5 @@
 *.gitattributes
 /Calculator-master/.vs/Jdanov
 /Calculator-master/Calculator1/.vs
+/Calculator/.vs
+/Calculator/Calculator1/.vs
