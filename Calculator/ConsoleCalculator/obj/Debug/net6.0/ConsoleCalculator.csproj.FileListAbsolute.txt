@@ -1,0 +1,15 @@
+C:\Users\Kostr\Source\Repos\Jdanov\Calculator\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.exe
+C:\Users\Kostr\Source\Repos\Jdanov\Calculator\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.deps.json
+C:\Users\Kostr\Source\Repos\Jdanov\Calculator\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.runtimeconfig.json
+C:\Users\Kostr\Source\Repos\Jdanov\Calculator\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.dll
+C:\Users\Kostr\Source\Repos\Jdanov\Calculator\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.pdb
+C:\Users\Kostr\Source\Repos\Jdanov\Calculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kostr\Source\Repos\Jdanov\Calculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.AssemblyInfoInputs.cache
+C:\Users\Kostr\Source\Repos\Jdanov\Calculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.AssemblyInfo.cs
+C:\Users\Kostr\Source\Repos\Jdanov\Calculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Kostr\Source\Repos\Jdanov\Calculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.sourcelink.json
+C:\Users\Kostr\Source\Repos\Jdanov\Calculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.dll
+C:\Users\Kostr\Source\Repos\Jdanov\Calculator\ConsoleCalculator\obj\Debug\net6.0\refint\ConsoleCalculator.dll
+C:\Users\Kostr\Source\Repos\Jdanov\Calculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.pdb
+C:\Users\Kostr\Source\Repos\Jdanov\Calculator\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.genruntimeconfig.cache
+C:\Users\Kostr\Source\Repos\Jdanov\Calculator\ConsoleCalculator\obj\Debug\net6.0\ref\ConsoleCalculator.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2LVdpqGr8/uEjiyeBwJhoaaLZw2/iRWDudvASZS3SRKDrAhlCs4szfZnz0cWYhM4HphZPkwj4BZM5qUS1hK1rA==",
+  "dgSpecHash": "q7JYwyQQlsPTkqoTHpECv6ij5T/Bf1dbH7If35GrncA7Agd+IT/GHbQSUDDw5tr8d5Kuv/fw4HJ33C/TeRppRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kostr\\Source\\Repos\\Jdanov\\Calculator-master\\ConsoleCalculator\\ConsoleCalculator.csproj",
+  "projectFilePath": "C:\\Users\\Kostr\\Source\\Repos\\Jdanov\\Calculator\\ConsoleCalculator\\ConsoleCalculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kostr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
     "C:\\Users\\Kostr\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
