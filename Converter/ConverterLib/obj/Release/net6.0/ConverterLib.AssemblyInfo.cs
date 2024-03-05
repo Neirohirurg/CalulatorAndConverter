@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleCalculator")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ConverterLib")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9cba630751173fbf5925cb502d6440376f5ba41")]
-[assembly: System.Reflection.AssemblyProductAttribute("ConsoleCalculator")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ConsoleCalculator")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a985db9cfd199f73934d880e708b4099a3fd450")]
+[assembly: System.Reflection.AssemblyProductAttribute("ConverterLib")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ConverterLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
